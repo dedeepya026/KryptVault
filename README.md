@@ -36,8 +36,11 @@ KryptVault is a **secure, full-stack zero-knowledge password manager** that encr
 ## 🛠️ Tech Stack
 
 **Frontend:** React, Axios, Crypto-JS
+
 **Backend:** Node.js, Express, MongoDB, JWT, Bcrypt
+
 **Security:** Helmet, CORS, Express-Rate-Limit
+
 **Database:** MongoDB Atlas
 
 ---
